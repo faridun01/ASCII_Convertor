@@ -23,12 +23,12 @@ ASCII Converter is a simple desktop application built with Python and Tkinter. I
 
 ### Prerequisites
 
-- **Python 3.x:** Make sure Python is installed on your system.
-- **Tkinter:** Tkinter typically comes bundled with Python. If not, install it via your package manager (e.g., `sudo apt-get install python3-tk` on Ubuntu).
+- **Python 3.x:** Ensure Python is installed on your system.
+- **Tkinter:** Tkinter typically comes bundled with Python. If not, install it via your package manager (for example, `sudo apt-get install python3-tk` on Ubuntu).
 
 ### Installation
 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/ascii-converter.git
+   git clone https://github.com/faridun01/ASCII_Convertor.git
